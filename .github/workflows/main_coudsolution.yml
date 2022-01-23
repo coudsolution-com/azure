@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'coudsolution'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_311BBF5F569E48A4A71276745CB22ECC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BED468D9689847C1994E79EB73EC868E }}
           package: .
